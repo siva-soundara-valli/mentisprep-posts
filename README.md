@@ -10,12 +10,6 @@ A lightweight **React 18 + Vite** web application that
 
 ---
 
-## Demo
-
-![Posts list screenshot](docs/screenshot.png) <!-- optional: add an image -->
-
----
-
 ## Features
 
 | Feature | Details |

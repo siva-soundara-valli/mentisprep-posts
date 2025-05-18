@@ -7,6 +7,6 @@ export default function PostList({ posts }) {
           <p>{p.body}</p>
         </li>
       ))}
-    </ul>
+    </ul> 
   );
 }

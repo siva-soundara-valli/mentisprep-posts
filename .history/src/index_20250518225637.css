@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #fafafa; }
+.container { max-width: 720px; margin: auto; padding: 1.5rem; }
+h1 { text-align: center; }
+.card { background: #fff; padding: 1rem; margin: 1rem 0; border-radius: 8px; box-shadow: 0 1px 3px #00000020; }
+label { display: block; margin-top: 0.5rem; }
+input, textarea { width: 100%; padding: 0.5rem; margin-top: 0.25rem; border: 1px solid #ddd; border-radius: 4px; }
+button { margin-top: 1rem; padding: 0.5rem 1rem; border: none; background: #007bff; color: #fff; border-radius: 4px; cursor: pointer; }
+button[disabled] { opacity: 0.6; cursor: wait; }
+ul.posts { list-style: none; padding: 0; }

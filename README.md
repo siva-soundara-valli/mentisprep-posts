@@ -5,9 +5,6 @@ A lightweight **React 18 + Vite** web application that
 1. **Lists posts** fetched from [`/posts`](https://jsonplaceholder.typicode.com/posts)  
 2. **Creates a new post** via a form (mocked `POST /posts`)
 
-> Built in response to MentisPrep’s take‑home assignment.  
-> Submitted by **[Your Name]** on **YYYY‑MM‑DD**.
-
 ---
 
 ## Features
